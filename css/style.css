@@ -1,1 +1,49 @@
-h1 {text-align:center;}
+body {
+    background-color: rgb(240, 240, 240);
+    color: #333;
+
+}
+
+
+h1 {
+
+    color: #2c3e50;
+    background-color: #f8f9fa;
+
+
+}
+
+h2 {
+
+
+    color: hsla(210, 50%, 30%, 0.3);
+
+    background-color: hsla(0, 0%, 90%, 0.5);
+}
+
+p {
+
+    color: rgb(44, 62, 80);
+    background-color: rgba(255, 255, 255, 0.7)
+}
+
+strong {
+
+    color: #e74c3c;
+
+
+}
+
+em {
+
+    color: hsl(200, 80%, 40%);
+}
+
+ol, ul {
+
+
+    color: rgb(44, 62, 80);
+    background-color: white;
+
+}
+
